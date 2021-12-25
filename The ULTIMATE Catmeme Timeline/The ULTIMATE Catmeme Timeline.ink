@@ -9,8 +9,8 @@ The Ultimate Catmeme Timeline
 -> TheBeginningOfTime
 
 == TheBeginningOfTime ==
-You pet your cat before the nuclear bomb hits you, it's your final moments together.
-*[Wake up]
+Du klappar din katt innan innan atombomben kommer. Det är dina sista stunder tilsammans.
+*[Vakna]
 {BluePill:
 ~ dream = 1
   - else: After the blue pill, you think the fact that you woke up isn't that real after all.
