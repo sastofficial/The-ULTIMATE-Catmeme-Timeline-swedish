@@ -1,2 +1,2 @@
-# The-ULTIMATE-Catmeme-Timeline
-An Open-source version of the game based on PolygonDonut's timeline.
+# The ULTIMATE Catmeme Timeline (Swedish Version)
+Swedish Translation of The Ultimate Catmeme Timeline game by Ender Uzhumaki
